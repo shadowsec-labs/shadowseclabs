@@ -1,8 +1,9 @@
 # ShadowSec Labs
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-WAF-orange)
-![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-black)
-![Status](https://img.shields.io/badge/Status-Active-success)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-WAF-F38020?logo=cloudflare&logoColor=white)]()
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-121013?logo=github)]()
+[![Security](https://img.shields.io/badge/Security-Web%20Application%20Firewall-blue)]()
+[![Status](https://img.shields.io/badge/Status-Completed-success)]()
 
 Laboratorio práctico enfocado en la implementación y configuración de un **Web Application Firewall (WAF)** utilizando Cloudflare para proteger aplicaciones web publicadas mediante GitHub Pages.
 
