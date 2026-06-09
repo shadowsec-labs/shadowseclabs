@@ -1,4 +1,4 @@
-# 🛡️ ShadowSec Labs
+# ShadowSec Labs
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-WAF-orange)
 ![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-black)
@@ -6,13 +6,13 @@
 
 Laboratorio práctico enfocado en la implementación y configuración de un **Web Application Firewall (WAF)** utilizando Cloudflare para proteger aplicaciones web publicadas mediante GitHub Pages.
 
-## 🌐 Sitio Web
+## Sitio Web
 
 **URL del laboratorio:**
 
 https://shadowseclabs.xyz
 
-## 🎯 Objetivos
+## Objetivos
 
 Este laboratorio tiene como finalidad:
 
@@ -23,7 +23,7 @@ Este laboratorio tiene como finalidad:
 - Aplicar controles de seguridad contra ataques comunes.
 - Analizar eventos de seguridad generados por Cloudflare.
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - HTML5
 - CSS3
@@ -34,7 +34,7 @@ Este laboratorio tiene como finalidad:
 - SSL/TLS
 - OWASP Top 10
 
-## 🔐 Controles de Seguridad Implementados
+## Controles de Seguridad Implementados
 
 ### Cloudflare Managed Rules
 
@@ -58,7 +58,7 @@ Protección contra:
 - Restricciones geográficas.
 - Bloqueo de User-Agents sospechosos.
 
-## 📊 Arquitectura
+## Arquitectura
 
 ```text
 Usuario
@@ -73,7 +73,7 @@ Cloudflare WAF
 GitHub Pages
 ```
 
-## 📸 Evidencias
+## Evidencias
 
 ### Cloudflare Dashboard
 
@@ -84,7 +84,7 @@ Agregar capturas de:
 - WAF Rules
 - Security Events
 
-## 🚀 Despliegue
+## Despliegue
 
 1. Clonar repositorio
 
@@ -108,7 +108,7 @@ git commit -m "Actualización del laboratorio"
 git push origin main
 ```
 
-## 📚 Aprendizajes
+## Aprendizajes
 
 Durante este laboratorio se trabajó con:
 
@@ -120,6 +120,6 @@ Durante este laboratorio se trabajó con:
 - Seguridad perimetral.
 
 
-## ⚠️ Aviso
+## Aviso
 
 Este proyecto tiene fines exclusivamente educativos y de aprendizaje en ciberseguridad defensiva.
